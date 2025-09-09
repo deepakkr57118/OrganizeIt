@@ -1,0 +1,2 @@
+streamlit>=1.25.0
+streamlit-tree-select>=0.0.5
